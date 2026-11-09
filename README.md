@@ -1,2 +1,2 @@
 # Project_1
-Project 1: DOM scriptie
+Project 1: DOM scripting
