@@ -1,6 +1,6 @@
 # Project name
 
-**Author(s):** Write your name / the names of all authors here
+**Author(s):** Iida Lappalainen
 
 ## Project plan
 
@@ -22,7 +22,7 @@ Add an image of your hand-drawn or digitally created application wireframe here.
 
 Example:
 
-![Wireframe](img/wireframe.png)
+![Wireframe](img/wireframe.PNG)
 
 ## Web links
 
